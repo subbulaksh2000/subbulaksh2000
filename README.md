@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src=ChatGPT Image Dec 11, 2025, 07_48_06 PM.png />
+  <img src="https://raw.githubusercontent.com/subbulaksh2000/subbulaksh2000/7be8ffaac688240299f018ab66f2c9de30380358/ChatGPT%20Image%20Dec%2011%2C%202025%2C%2007_48_06%20PM.png" width="100%" />
 </p>
 
 <!-- INTRO -->
