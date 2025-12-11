@@ -11,7 +11,7 @@
 
 ## 🌟 About Me  
 I enjoy building data-driven solutions in **cloud engineering, machine learning, and bioinformatics**.  
-Passionate about using technology to improve **healthcare, automation, and analytics**.
+I'm passionate about using technology to improve **healthcare, automation, and analytics**.
 
 ---
 
@@ -97,7 +97,7 @@ Passionate about using technology to improve **healthcare, automation, and analy
 
 ---
 
-<!-- FOOTER BANNER -->
+<!-- FANCY FOOTER (Option 6: Royal Purple Ribbon) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=BA55D3&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=9932CC&height=120&section=footer&text=Made%20with%20💜%20by%20Subbulakshmi&fontSize=25&fontColor=ffffff"/>
 </p>
