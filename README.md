@@ -50,6 +50,13 @@ Passionate about using technology to improve **healthcare, analytics, and automa
 
 ---
 
+## 🔥 GitHub Streak  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=subbulaksh2000&theme=radical&hide_border=false" height="180"/>
+</p>
+
+---
+
 ## 🌐 Connect  
 🔗 **LinkedIn:** https://www.linkedin.com/in/subbulakshmi-natarajan  
 📂 Explore my GitHub projects below 👇  
