@@ -54,14 +54,14 @@ I'm passionate about using technology to improve **healthcare, automation, and a
 
 # 🔥 GitHub Streak  
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=subbulaksh2000&theme=violet-dark&hide_border=false" />
+  <img src="https://streak-stats.demolab.com/?user=subbulaksh2000&theme=violet-dark&hide_border=false" />
 </p>
 
 ---
 
 # 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats-steel-eta.vercel.app/api?username=subbulaksh2000&show_icons=true&theme=midnight-purple" height="150"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=subbulaksh2000&show_icons=true&theme=midnight-purple" height="150"/>
 </p>
 
 ---
