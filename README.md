@@ -10,8 +10,9 @@
 ---
 
 ## 🌟 About Me  
-I enjoy building data-driven solutions in **cloud engineering, machine learning, and bioinformatics**.  
-I'm passionate about using technology to improve **healthcare, automation, and analytics**.
+I specialize in combining **data engineering**, **cloud computing**, and **bioinformatics** to create reliable, scalable, and high-impact data solutions.  
+My work focuses on developing ML pipelines, processing genomics datasets, and applying modern cloud tools to solve challenges in **healthcare analytics** and **computational biology**.  
+I enjoy building systems that are efficient, automated, and meaningful to real-world applications.
 
 ---
 
@@ -52,6 +53,27 @@ I'm passionate about using technology to improve **healthcare, automation, and a
 
 ---
 
+# 🔥 GitHub Streak  
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=subbulaksh2000&theme=violet-dark&hide_border=false" />
+</p>
+
+---
+
+# 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=subbulaksh2000&show_icons=true&theme=midnight-purple" height="150"/>
+</p>
+
+---
+
+# 📈 GitHub Activity Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=subbulaksh2000&theme=dracula&area=true&hide_border=false&color=BA55D3&line=BA55D3&point=FFFFFF" width="100%"/>
+</p>
+
+---
+
 # 🏅 Certifications & Tools  
 <p align="center">
 
@@ -80,3 +102,4 @@ I'm passionate about using technology to improve **healthcare, automation, and a
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=9932CC&height=120&section=footer&text=Made%20with%20💜%20by%20Subbulakshmi&fontSize=25&fontColor=ffffff"/>
 </p>
+
