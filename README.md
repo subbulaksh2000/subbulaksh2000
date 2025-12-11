@@ -6,7 +6,7 @@
 **Aspiring Data Engineer | Bioinformatics Intern | Master of Data Science (Monash)**  
 
 I enjoy building data-driven solutions in **cloud, machine learning, and bioinformatics**.  
-Passionate about using technology to improve **healthcare, analytics, and automation**.
+Passionate about using technology to improve **healthcare, automation, and analytics**.
 
 ---
 
@@ -52,7 +52,14 @@ Passionate about using technology to improve **healthcare, analytics, and automa
 
 ## 🔥 GitHub Streak  
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=subbulaksh2000&theme=radical&hide_border=false" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=subbulaksh2000&theme=violet-dark&hide_border=false" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=subbulaksh2000&show_icons=true&theme=radical" />
 </p>
 
 ---
@@ -61,8 +68,3 @@ Passionate about using technology to improve **healthcare, analytics, and automa
 🔗 **LinkedIn:** https://www.linkedin.com/in/subbulakshmi-natarajan  
 📂 Explore my GitHub projects below 👇  
 
----
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=subbulaksh2000&show_icons=true&theme=radical" />
-</p>
