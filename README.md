@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Subbulakshmi%20Natarajan&fontSize=42&fontColor=ffffff" />
+  <img src=ChatGPT Image Dec 11, 2025, 07_48_06 PM.png />
 </p>
 
 <!-- INTRO -->
