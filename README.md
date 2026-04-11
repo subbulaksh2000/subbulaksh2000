@@ -19,7 +19,7 @@ My interests include:
 - **SQL-based reporting and performance tracking**
 - **Using data to solve operational and business problems**
 
-I am currently completing my **Master of Data Science at Monash University** and building projects that combine analytics, reporting, and domain knowledge in healthcare and business environments.
+I am currently completed my **Master of Data Science at Monash University** and building projects that combine analytics, reporting, and domain knowledge in healthcare and business environments.
 
 ---
 
