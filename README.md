@@ -9,7 +9,7 @@
 ---
 
 ## 🌟 About Me  
-I am an aspiring **Data Analyst, Health Data Analyst, and BI Developer** with a background in **data science, analytics, and reporting**.  
+I am an aspiring **Data Analyst, Health Data Analyst, Business Analyst and BI Developer** with a background in **data science, analytics, and reporting**.  
 I enjoy transforming raw data into meaningful insights that support better decision-making, improve processes, and create real-world impact.  
 
 My interests include:
