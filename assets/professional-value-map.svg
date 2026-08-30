@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="470" viewBox="0 0 1200 470" role="img" aria-labelledby="title desc">
+  <title id="title">Professional value map</title>
+  <desc id="desc">Three connected strengths: Business Analysis, Data and Power BI, and Healthcare AI, leading to clearer decisions, better processes and measurable outcomes.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#08111f"/>
+      <stop offset="1" stop-color="#101d34"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="0.5" stop-color="#60a5fa"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <style>
+    .font { font-family: Inter, Segoe UI, Arial, sans-serif; }
+    .title { font-size: 26px; font-weight: 800; letter-spacing: 1.5px; }
+    .subtitle { font-size: 15px; font-weight: 500; }
+    .card-title { font-size: 21px; font-weight: 800; }
+    .item { font-size: 14px; font-weight: 500; }
+    .outcome { font-size: 17px; font-weight: 800; letter-spacing: 0.4px; }
+    .move { stroke-dasharray: 10 12; animation: move 8s linear infinite; }
+    .pulse { animation: pulse 3s ease-in-out infinite; transform-origin: center; }
+    @keyframes move { to { stroke-dashoffset: -176; } }
+    @keyframes pulse { 0%,100% { opacity: .55; } 50% { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) { .move, .pulse { animation: none; } }
+  </style>
+
+  <rect width="1200" height="470" rx="24" fill="url(#bg)"/>
+  <path d="M92 92 H1108" stroke="url(#line)" stroke-width="3" class="move" opacity="0.75"/>
+  <text x="600" y="58" text-anchor="middle" fill="#ffffff" class="font title">THE VALUE I BRING</text>
+  <text x="600" y="82" text-anchor="middle" fill="#94a3b8" class="font subtitle">Bridging stakeholders, technology and data to turn complex problems into practical outcomes</text>
+
+  <g transform="translate(55 122)">
+    <rect width="340" height="240" rx="20" fill="#0b2239" stroke="#22d3ee" stroke-opacity="0.8"/>
+    <circle cx="56" cy="51" r="24" fill="#22d3ee" opacity="0.17" class="pulse"/>
+    <path d="M46 51h20M56 41v20" stroke="#67e8f9" stroke-width="3" stroke-linecap="round"/>
+    <text x="94" y="58" fill="#ffffff" class="font card-title">Business Analysis</text>
+    <rect x="34" y="84" width="272" height="1" fill="#22d3ee" opacity="0.35"/>
+    <text x="38" y="116" fill="#cffafe" class="font item">• Requirements elicitation &amp; analysis</text>
+    <text x="38" y="148" fill="#cffafe" class="font item">• AS-IS and TO-BE process design</text>
+    <text x="38" y="180" fill="#cffafe" class="font item">• User stories &amp; acceptance criteria</text>
+    <text x="38" y="212" fill="#cffafe" class="font item">• Stakeholder engagement, RACI &amp; UAT</text>
+  </g>
+
+  <g transform="translate(430 122)">
+    <rect width="340" height="240" rx="20" fill="#0b2239" stroke="#60a5fa" stroke-opacity="0.8"/>
+    <circle cx="56" cy="51" r="24" fill="#60a5fa" opacity="0.17" class="pulse"/>
+    <path d="M46 60V45h6v15zm11 0V38h6v22zm11 0V49h6v11z" fill="#93c5fd"/>
+    <text x="94" y="58" fill="#ffffff" class="font card-title">Data &amp; Power BI</text>
+    <rect x="34" y="84" width="272" height="1" fill="#60a5fa" opacity="0.35"/>
+    <text x="38" y="116" fill="#dbeafe" class="font item">• Power Query, data quality &amp; modelling</text>
+    <text x="38" y="148" fill="#dbeafe" class="font item">• DAX measures &amp; KPI frameworks</text>
+    <text x="38" y="180" fill="#dbeafe" class="font item">• Interactive decision-ready dashboards</text>
+    <text x="38" y="212" fill="#dbeafe" class="font item">• Insight communication &amp; storytelling</text>
+  </g>
+
+  <g transform="translate(805 122)">
+    <rect width="340" height="240" rx="20" fill="#0b2239" stroke="#a78bfa" stroke-opacity="0.8"/>
+    <circle cx="56" cy="51" r="24" fill="#a78bfa" opacity="0.17" class="pulse"/>
+    <path d="M44 52c8-15 16-15 24 0-8 15-16 15-24 0zm12-7a7 7 0 1 0 0 14 7 7 0 0 0 0-14z" fill="#c4b5fd"/>
+    <text x="94" y="58" fill="#ffffff" class="font card-title">Healthcare AI</text>
+    <rect x="34" y="84" width="272" height="1" fill="#a78bfa" opacity="0.35"/>
+    <text x="38" y="116" fill="#ede9fe" class="font item">• Predictive analytics &amp; model evaluation</text>
+    <text x="38" y="148" fill="#ede9fe" class="font item">• Clinical workflow understanding</text>
+    <text x="38" y="180" fill="#ede9fe" class="font item">• Responsible, human-controlled AI</text>
+    <text x="38" y="212" fill="#ede9fe" class="font item">• Translating research into usable insight</text>
+  </g>
+
+  <g transform="translate(205 398)">
+    <rect width="790" height="48" rx="24" fill="#ffffff" fill-opacity="0.06" stroke="url(#line)"/>
+    <circle cx="22" cy="24" r="7" fill="#22d3ee" class="pulse"/>
+    <text x="395" y="31" text-anchor="middle" fill="#ffffff" class="font outcome">CLEARER DECISIONS  •  BETTER PROCESSES  •  MEASURABLE OUTCOMES</text>
+    <circle cx="768" cy="24" r="7" fill="#a78bfa" class="pulse"/>
+  </g>
+</svg>
