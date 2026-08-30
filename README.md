@@ -1,14 +1,20 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,48:0E7490,100:2563EB&height=230&section=header&text=Subbulakshmi%20Natarajan&fontSize=43&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Business%20Analyst%20%E2%80%A2%20Data%20Analyst%20%E2%80%A2%20Healthcare%20AI&descAlignY=56&descSize=19" width="100%" alt="Subbulakshmi Natarajan — Business Analyst, Data Analyst and Healthcare AI professional" />
+  <img src="./assets/profile-banner.svg" width="100%" alt="Subbulakshmi Natarajan — Business Analyst, Data Analyst and Healthcare AI professional" />
 </p>
 
 <div align="center">
 
+<h2>Business Analyst &amp; Data Analyst | Healthcare AI • Power BI • Digital Transformation</h2>
 
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=2600&pause=800&color=0E7490&center=true&vCenter=true&repeat=true&width=980&lines=Translating+stakeholder+needs+into+clear%2C+testable+requirements;Designing+AS-IS+and+TO-BE+processes+that+improve+delivery;Building+decision-ready+Power+BI+dashboards+and+KPI+frameworks;Applying+responsible+AI+to+healthcare+and+operational+challenges" alt="Animated summary of professional capabilities" />
 
+<br/>
 
+[![Melbourne](https://img.shields.io/badge/%F0%9F%93%8D_Melbourne-Australia-0E7490?style=for-the-badge)](#)
+[![Open to Work](https://img.shields.io/badge/Open_to-Business_Analyst_%7C_Data_Analyst-22C55E?style=for-the-badge)](mailto:subbulaksh2000@gmail.com)
+[![Relocation](https://img.shields.io/badge/Open_to-Relocation_across_Australia-2563EB?style=for-the-badge)](#)
 
-I turn complex business and healthcare problems into clear requirements, improved processes and decision-ready analytics.
+### **I turn complex business and healthcare problems into clear requirements, improved processes and decision-ready analytics.**
 
 <p>
   <a href="https://www.linkedin.com/in/subbulakshmi-natarajan/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -18,60 +24,50 @@ I turn complex business and healthcare problems into clear requirements, improve
 
 </div>
 
-👋 Professional Profile
+---
 
-I’m Subbulakshmi (Subbu), a Melbourne-based Business Analyst and Data professional working at the intersection of business needs, technology and analytics. My background spans healthcare AI research, technology delivery, supply-chain analytics and business process improvement.
+## 👋 Professional Profile
 
-I bring a distinctive combination of capabilities: I can facilitate stakeholder conversations, translate business needs into structured requirements, map AS-IS and TO-BE processes, analyse data, build Power BI dashboards and communicate technical findings in practical business language.
+I’m **Subbulakshmi (Subbu)**, a Melbourne-based **Business Analyst and Data professional** working at the intersection of **business needs, technology and analytics**. My background spans **healthcare AI research, technology delivery, supply-chain analytics and business process improvement**.
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🔍 Business Analysis</h3>
-      <p>Requirements elicitation, stakeholder analysis, process mapping, user stories, acceptance criteria, RACI, traceability and UAT.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>📊 Data & Power BI</h3>
-      <p>Data preparation, modelling, DAX, KPI design, dashboard development and insight communication for decision-makers.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🏥 Healthcare AI</h3>
-      <p>Predictive analytics, model evaluation, responsible AI, clinical workflow understanding and human-controlled decision support.</p>
-    </td>
-  </tr>
-</table>
+My key differentiator is the ability to work across the full problem-solving journey: **facilitate stakeholder conversations, translate needs into structured requirements, map AS-IS and TO-BE processes, analyse data, build Power BI dashboards and communicate technical findings in practical business language**.
 
-💼 Experience Snapshot
+<p align="center">
+  <img src="./assets/professional-value-map.svg" width="100%" alt="Professional value map showing Business Analysis, Data and Power BI, and Healthcare AI strengths" />
+</p>
 
-Focus Area
+### Recruiter snapshot
 
-What I Deliver
+| | |
+|---|---|
+| **Target opportunities** | **Business Analyst, Technical Business Analyst and Data Analyst** roles |
+| **Location** | **Melbourne, Australia** — open to relocation across Australia |
+| **Core value** | Connecting **stakeholders, processes and data** to support measurable decisions |
+| **Domain strengths** | **Healthcare, technology delivery, supply chain and operational analytics** |
+| **Featured capability** | **Power BI dashboards, KPI design, process improvement and responsible AI** |
 
-Healthcare Data & AI Research
+---
 
-Work with predictive modelling pipelines and evaluate Logistic Regression, Random Forest, XGBoost and GAM approaches for healthcare outcomes.
+## 💼 Experience Snapshot
 
-Technical Business Analysis
+| Focus Area | What I Deliver |
+|---|---|
+| **Healthcare Data & AI Research** | Work with predictive modelling pipelines and evaluate Logistic Regression, Random Forest, XGBoost and GAM approaches for healthcare outcomes. |
+| **Technical Business Analysis** | Define business problems, analyse processes, elicit requirements, prepare user stories and support Agile technology delivery. |
+| **Supply Chain & Operations Analytics** | Build procurement dashboards, analyse supplier lead times and support the digitisation of operational check-off and quotation processes. |
+| **Stakeholder Communication** | Translate between business and technical teams through workshops, documentation, presentations and data storytelling. |
 
-Define business problems, analyse processes, elicit requirements, prepare user stories and support Agile technology delivery.
+---
 
-Supply Chain & Operations Analytics
-
-Build procurement dashboards, analyse supplier lead times and support the digitisation of operational check-off and quotation processes.
-
-Stakeholder Communication
-
-Translate between business and technical teams through workshops, documentation, presentations and data storytelling.
-
-⭐ Power BI Spotlight
+## ⭐ Power BI Spotlight
 
 <div align="center">
 
-
-
-
-
-
+![Power BI](https://img.shields.io/badge/POWER%20BI-FEATURED%20SKILL-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Data Modelling](https://img.shields.io/badge/Data-Modelling-0E7490?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power-Query-2563EB?style=for-the-badge)
+![DAX](https://img.shields.io/badge/DAX-Measures-7C3AED?style=for-the-badge)
+![KPI Design](https://img.shields.io/badge/KPI-Design-EA580C?style=for-the-badge)
 
 </div>
 
@@ -86,61 +82,57 @@ My Power BI work is built around business decisions—not just visual design.
   </tr>
 </table>
 
-Selected analytics applications
+### Selected analytics applications
 
-Healthcare: clinical outcome analysis and operational performance reporting.
+- **Healthcare:** clinical outcome analysis and operational performance reporting.
+- **Supply chain:** supplier lead time, delayed orders, procurement visibility and vendor performance.
+- **Operations:** service performance, workflow monitoring and decision-support dashboards.
 
-Supply chain: supplier lead time, delayed orders, procurement visibility and vendor performance.
+---
 
-Operations: service performance, workflow monitoring and decision-support dashboards.
+## 🧭 How I Approach Business Analysis
 
-🧭 How I Approach Business Analysis
-
+```mermaid
 flowchart LR
     A[Discover<br/>Problem & stakeholders] --> B[Analyse<br/>Process & data]
     B --> C[Define<br/>Requirements & scope]
     C --> D[Validate<br/>Users & acceptance]
     D --> E[Deliver<br/>Insights & outcomes]
+```
 
-My approach keeps the business problem, stakeholder value and measurable outcome visible throughout delivery.
+My approach keeps the **business problem, stakeholder value and measurable outcome** visible throughout delivery.
 
-🚀 Featured Work
+---
 
-🏥 CarePath — Healthcare Business Analysis Case Study
+## 🚀 Featured Work
 
-Building an end-to-end portfolio case study for AI-assisted outpatient referral management.
+### 🏥 CarePath — Healthcare Business Analysis Case Study
 
-Business Need
+**Building an end-to-end portfolio case study for AI-assisted outpatient referral management.**
 
-BA Evidence
+| Business Need | BA Evidence |
+|---|---|
+| Improve referral completeness, routing, visibility and operational reporting | Problem statement, project objectives, scope boundary, stakeholder register, Power–Interest Matrix, RACI and AS-IS process analysis |
+| Introduce responsible administrative AI support | Human-controlled clinical decisions, clear exclusions and responsible-AI boundaries |
+| Make performance measurable | Planned Power BI analysis using fully synthetic healthcare operations data |
 
-Improve referral completeness, routing, visibility and operational reporting
+[![Explore CarePath](https://img.shields.io/badge/Explore-CarePath%20Case%20Study-0E7490?style=for-the-badge&logo=github&logoColor=white)](https://github.com/subbulaksh2000/carepath-healthcare-ba-project)
 
-Problem statement, project objectives, scope boundary, stakeholder register, Power–Interest Matrix, RACI and AS-IS process analysis
-
-Introduce responsible administrative AI support
-
-Human-controlled clinical decisions, clear exclusions and responsible-AI boundaries
-
-Make performance measurable
-
-Planned Power BI analysis using fully synthetic healthcare operations data
-
-
-
-🤖 JARVIS — Local AI Assistant for macOS
+### 🤖 JARVIS — Local AI Assistant for macOS
 
 Developed a Python-based personal assistant with voice interaction, local AI through Ollama, application controls, reminders and productivity features. This project demonstrates requirements translation, iterative development, troubleshooting and user-centred feature design.
 
+[![Explore JARVIS](https://img.shields.io/badge/Explore-JARVIS%20Mac%20Assistant-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/subbulaksh2000/jarvis-mac-assistant)
 
-
-📊 Data Analytics Portfolio
+### 📊 Data Analytics Portfolio
 
 Explore my projects across Power BI, healthcare analytics, supply chain, operations, R, Python and machine learning.
 
+[![View Portfolio](https://img.shields.io/badge/View-Data%20Analytics%20Portfolio-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://www.datascienceportfol.io/subbulaksh2000)
 
+---
 
-🎯 Current Professional Development
+## 🎯 Current Professional Development
 
 <table>
   <tr>
@@ -165,36 +157,40 @@ Explore my projects across Power BI, healthcare analytics, supply chain, operati
   </tr>
 </table>
 
-Status matters: DP-600 and ECBA are shown as current preparation—not completed certifications.
+> **Status matters:** DP-600 and ECBA are shown as current preparation—not completed certifications.
 
-🛠️ Skills & Tools
+---
 
-Business Analysis and Delivery
+## 🛠️ Skills & Tools
 
+### Business Analysis and Delivery
 
+![Requirements](https://img.shields.io/badge/Requirements-Elicitation-0E7490?style=flat-square)
+![Process Mapping](https://img.shields.io/badge/Process-AS--IS%20%7C%20TO--BE-2563EB?style=flat-square)
+![User Stories](https://img.shields.io/badge/Agile-User%20Stories-7C3AED?style=flat-square)
+![Acceptance Criteria](https://img.shields.io/badge/Requirements-Acceptance%20Criteria-EA580C?style=flat-square)
+![Stakeholders](https://img.shields.io/badge/Stakeholders-RACI%20%7C%20Power--Interest-DC2626?style=flat-square)
+![Testing](https://img.shields.io/badge/Testing-UAT-16A34A?style=flat-square)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![Dynamics 365](https://img.shields.io/badge/Dynamics%20365-002050?style=flat-square&logo=dynamics365&logoColor=white)
 
+### Data, BI and Engineering
 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+---
 
-
-
-
-
-Data, BI and Engineering
-
-
-
-
-
-
-
-
-
-
-
-
-
-📈 GitHub Overview
+## 📈 GitHub Overview
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subbulaksh2000&theme=tokyonight" width="96%" alt="GitHub profile contribution summary" />
@@ -209,20 +205,22 @@ Data, BI and Engineering
   <img src="https://streak-stats.demolab.com/?user=subbulaksh2000&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
-🤝 Let’s Build Something Valuable
+---
+
+## 🤝 Let’s Build Something Valuable
 
 <div align="center">
 
 I’m interested in opportunities and collaborations involving
-Business Analysis, Data Analytics, Power BI, Microsoft Fabric, Healthcare AI and Technology Consulting.
+**Business Analysis, Data Analytics, Power BI, Microsoft Fabric, Healthcare AI and Technology Consulting**.
 
-
-
-
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subbulakshmi-natarajan/)
+[![Email](https://img.shields.io/badge/Email%20Subbu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subbulaksh2000@gmail.com)
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.datascienceportfol.io/subbulaksh2000)
 
 <br/>
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=subbulaksh2000&label=PROFILE%20VIEWS&color=0E7490&style=for-the-badge)
 
 </div>
 
